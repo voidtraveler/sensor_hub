@@ -1,5 +1,5 @@
 var dgram = require('dgram');
-var message = Buffer.from("Test!");
+var message = Buffer.from("89.5");
 var client = dgram.createSocket("udp4");
 console.log(message);
 console.log(message.length);
