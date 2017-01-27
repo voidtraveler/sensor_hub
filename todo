@@ -8,3 +8,6 @@ database schema?
 
 sensor(id, ipaddress, data?)
 when sensor sends data, how to tell which sensor unit data goes where? 90 degrees outside vs 90% humidity
+
+Arduino send and recieve via wifi or ethernet via UDP.
+console access
