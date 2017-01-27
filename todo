@@ -3,3 +3,8 @@ create web interface (google charts?)
 arduino sending udp
 
 how to map ip addresses to friendly names?
+
+database schema?
+
+sensor(id, ipaddress, data?)
+when sensor sends data, how to tell which sensor unit data goes where? 90 degrees outside vs 90% humidity
